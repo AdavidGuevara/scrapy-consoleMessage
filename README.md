@@ -1,0 +1,1 @@
+# catch the console message with scrapy-playwright.
